@@ -1,2 +1,5 @@
 # ML-Fraud-Detection-Model
-Credit card fraud detection through machine learning models
+
+Machine learning models were trained to label anonymous credit card transactions as fraudulent or genuine. 
+
+Dataset Source: Kaggle
